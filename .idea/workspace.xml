@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea9f0199-bb01-4cac-8f42-0ead13c5094b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2E56avti4tCXf98FMUfYYbnOC8W" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629364969546" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../06所需要的jar包/jl-1.0.1.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\【尚学堂】Java游戏项目“超级玛丽“实战教程_体验编程乐趣-夯实Java基础\【尚学堂】Java游戏项目“超级玛丽“实战教程_体验编程乐趣-夯实Java基础_源码课件\01源码课件\01超级玛丽代码\28--给游戏添加背景音乐\SuperMario\src" />
+      <recent name="C:\Users\Administrator\Desktop\SuperMario\src\Music" />
+      <recent name="C:\Users\Administrator\Desktop\SuperMario\src\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sxt.MyFrame" />
+      <module name="SuperMario" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sxt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea9f0199-bb01-4cac-8f42-0ead13c5094b" name="Default Changelist" comment="" />
+      <created>1627983614641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627983614641</updated>
+      <workItem from="1627983617684" duration="253000" />
+      <workItem from="1628040208079" duration="225000" />
+      <workItem from="1628043268218" duration="1154000" />
+      <workItem from="1628062526066" duration="27000" />
+      <workItem from="1628124792280" duration="3123000" />
+      <workItem from="1628128604780" duration="263000" />
+      <workItem from="1628213973265" duration="1907000" />
+      <workItem from="1628386099951" duration="1355000" />
+      <workItem from="1628389772920" duration="18000" />
+      <workItem from="1628470852177" duration="2228000" />
+      <workItem from="1628474189609" duration="42000" />
+      <workItem from="1628557193188" duration="2108000" />
+      <workItem from="1628644233600" duration="2594000" />
+      <workItem from="1628648507344" duration="18000" />
+      <workItem from="1628731150958" duration="1789000" />
+      <workItem from="1628733311858" duration="19000" />
+      <workItem from="1628751146429" duration="225000" />
+      <workItem from="1628753300445" duration="221000" />
+      <workItem from="1628759596168" duration="13000" />
+      <workItem from="1628817714072" duration="3473000" />
+      <workItem from="1628990707453" duration="1603000" />
+      <workItem from="1628994172728" duration="20000" />
+      <workItem from="1629075850651" duration="2293000" />
+      <workItem from="1629163533107" duration="1695000" />
+      <workItem from="1629249224873" duration="2258000" />
+      <workItem from="1629342243539" duration="724000" />
+      <workItem from="1629359160174" duration="27000" />
+      <workItem from="1629364546140" duration="451000" />
+      <workItem from="1661873165910" duration="1470000" />
+      <workItem from="1661874728837" duration="489000" />
+      <workItem from="1661905874865" duration="2526000" />
+      <workItem from="1661926875215" duration="3346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
